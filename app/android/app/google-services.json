@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443191737734",
+    "project_id": "loteria-diana",
+    "storage_bucket": "loteria-diana.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443191737734:android:d7ccbad41cd18511a74007",
+        "android_client_info": {
+          "package_name": "com.example.loteria_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEhHF97KOb_Z96oFY5bc7PFFAxJWHp_OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

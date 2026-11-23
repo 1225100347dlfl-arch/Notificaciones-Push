@@ -1,0 +1,6 @@
+@"
+node_modules/
+**/node_modules/
+app/build/
+app/.dart_tool/
+"@ | Out-File -FilePath .gitignore -Encoding utf8
